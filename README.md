@@ -1,4 +1,7 @@
+## Public Disclosure reason
 
+Public disclosure. Driver shipped with the gacha game MONGIL:STAR DRIVE that came out the 14th April 2026.
+Email sent the same day. Completely ignored.
 
 ## Protocol refresher
 
